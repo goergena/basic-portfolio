@@ -1,0 +1,169 @@
+body {
+    width: 960px;
+    background: url(../images/concrete_seamless.png) repeat; 
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+    margin: auto;
+    font-size: 16px;
+}
+
+header {
+    background: #fff;
+    overflow: auto;
+}
+
+.header-border {
+    clear: both;
+    height: 2px;
+    background: #ccc;
+} 
+
+h1 {
+    float: left;
+    background: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 32px;
+    color: #fff;
+    padding:40px;
+    font-weight: bold;
+}
+
+nav {
+    float: right;
+    padding: 40px 0px;
+   /* color: #777; */
+}
+
+a {
+    color: #777; 
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 16px;
+} 
+
+/* .content {
+    background: url(../images/concrete_seamless.png) repeat;
+} */
+
+section {
+    background: #fff;
+    width: 610px; 
+    padding: 20px 20px 40px 20px;
+    float: left;
+    border: none;
+    overflow: auto;
+    margin: 40px 20px 40px 0px;
+}
+
+
+h2 {
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 28px;
+    font-weight: bold;
+    padding: 20px 0px;
+}
+
+br {
+    background: #ccc;
+    height: 2px;
+    border: solid;
+}
+
+/*About page content*/
+
+#prof-pic {
+    width: 200px;
+    height: 150px;
+    float: left;
+    margin: 0px 20px 0px 0px;
+}
+
+p {
+    color: #777;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 150%;
+    padding: 0px 0px 10px 0px;
+}
+
+.clear {
+    clear: both;
+}
+
+/*portfolio page content*/
+
+container container2 {
+    position: relative;
+}
+
+/* container2 {
+    position: relative;
+} */
+/*
+container3 {
+    position: relative;
+}
+
+.imMad {
+    position: relative; 
+}
+*/
+.port {
+    width: 200px;
+    height: 200px;
+} 
+
+h4 {
+    background: #4aaaa5;
+    color: #fff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    text-align: center;
+    padding: 16px 0px;
+    max-width: 200px;
+}
+
+.title-1 .title-2 { 
+    position: absolute;
+    bottom: 16px;
+    width: 100%;
+
+}
+
+/*Contact page content*/
+
+
+/*Connect with me Content */
+
+
+aside {
+    float: left;
+    width: 230px;
+    padding: 0px 20px 40px 20px;
+    background: #fff;
+    margin: 40px 0px;
+}
+
+h3 {
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 20px 0px;
+}
+
+
+.contact {
+    width: 50px;
+    height: 50px;
+}
+
+footer {
+    clear: both;
+    background: #666;
+    color: #ccc;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 10px;
+    padding: 40px;
+}
